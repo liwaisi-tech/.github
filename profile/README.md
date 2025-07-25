@@ -1,20 +1,35 @@
-# Democratizamos el conocimiento en las zonas rurales: La educación en la comunidad
+## ¿POR QUÉ EXISTIMOS?
+Estamos seguras que la tecnología puede sembrarse en el campo como semilla de justicia, empoderamiento y abundancia.
+Queremos que las zonas rurales sean lugares donde el conocimiento tecnológico complemente las sabidurías ancestrales, genere oportunidades y cierre brechas de desigualdad.
+Por eso Construimos y compartimos tecnología con comunidades y productores rurales para que puedan potenciar sus negocios, cuidar la tierra y quedarse en su territorio con bienestar. Acompañamos con soluciones reales, ajustadas a sus bolsillos, su ritmo y sus saberes. Aquí, la tecnología se hace entre todos.
 
-Nuestra misión es democratizar la educación en las áreas rurales de Colombia, brindando a todos la oportunidad de formar parte de la próspera economía digital. En Liwasi EdTech, fomentamos el espíritu de resolución de problemas en comunidad y creamos soluciones digitales de alto impacto.
+## NUESTRO HORIZONTE A 10 AÑOS
+Imaginamos un territorio donde aprender tecnología sea tan común como sembrar, y donde nuestras comunidades sean líderes de una nueva ruralidad próspera, creativa y justa.
+MISiÓN
+Llevamos la tecnología al campo como una herramienta para sembrar oportunidades, fortalecer los saberes de la gente y cuidar la tierra mientras crecemos juntos. Creamos y enseñamos tecnología hecha con las comunidades, para que las personas del campo puedan vivir bien, sacar adelante sus ideas y defender su derecho a quedarse en su tierra con orgullo, dignidad y progreso.
 
-## Aprendizaje de Habilidades Esenciales
-Desde la agricultura sostenible hasta la alimentación saludable, te ayudamos a desarrollar habilidades prácticas para vivir en armonía con el medio ambiente y mejorar la calidad de vida.    Aprendizaje de Habilidades Esenciales: Desde la agricultura sostenible hasta la alimentación saludable, te ayudamos a desarrollar habilidades prácticas para vivir en armonía con el medio ambiente y mejorar la calidad de vida.
+## MISiÓN
+Llevamos la tecnología al campo como una herramienta para sembrar oportunidades, fortalecer los saberes de la gente y cuidar la tierra mientras crecemos juntos. Creamos y enseñamos tecnología hecha con las comunidades, para que las personas del campo puedan vivir bien, sacar adelante sus ideas y defender su derecho a quedarse en su tierra con orgullo, dignidad y progreso.
 
-## Aprendizaje en Bioconstrucción y Medio Ambiente:
-Aprende a construir espacios sostenibles utilizando materiales locales y respetuosos con la naturaleza, creando un entorno amigable para ti y tu comunidad.
+## PRINCIPIOS que guían nuestras decisiones
 
-## Aprendizaje en Tecnologías de la Información:
-Sumérgete en el mundo digital con cursos sobre desarrollo de software, inteligencia artificial, marketing digital y más. Descubre cómo estas herramientas pueden resolver problemas y promover la innovación.
+🧠 Human First : La tecnología debe estar al servicio de las personas, no al revés. Primero el bienestar.
+🐚 Respeto por los saberes del territorio: Valoramos la sabiduría tradicional y construimos desde ella, no por encima de ella.
+🌍 Innovación con impacto positivo: Buscamos soluciones tecnológicas que mejoren vidas, cuiden el planeta y generen ingresos.
+👐 Escucha y co-creación: Todo lo hacemos en diálogo con las personas y las comunidades.
+🌱 Soberanía alimentaria y tecnológica: Apoyamos la autonomía para cultivar y para crear tecnología propia.
+❤️ Justicia social empresarial: Queremos negocios que reduzcan desigualdades, no que las profundicen.
+🧘‍♀️ Bienestar integral: Cuidamos la mente, el cuerpo, los vínculos y el entorno. Todo está conectado.
+🎮 Aprendizaje divertido y significativo: Desarrollamos una metodología con gamificación para aprender con alegría y práctica. 
 
-## Aprendizaje en Electrónica y IoT:
-Comprende los principios de la electrónica y la energía solar mientras exploras oportunidades emocionantes en el Internet de las cosas (IoT) y la innovación tecnológica.
+
+## Aprendizaje en Tecnologías:
+Sumérgete en el mundo digital con video tutoriales sobre desarrollo de software, inteligencia artificial, Electronica y más. Entra a nuestro canal de youtube: 
+[Canal Liwasi Edtech](https://www.youtube.com/@LiwaisiTech)]
+Descubre cómo estas herramientas pueden resolver problemas y promover la innovación.
+
 
 ## Talleres Comunitarios: 
-Fomentamos el aprendizaje colaborativo a través de talleres prácticos que fortalecen la comunidad y promueven la evolución humana.
+Fomentamos el aprendizaje colaborativo a través de talleres prácticos y botcamps que fortalecen la comunidad y promueven la evolución humana.
 
-Conoce más en [Liwasi Edtech](https://liwasi-tech.github.io/)
+Conoce más en [Liwasi Edtech](https://liwaisi.tech/)]
