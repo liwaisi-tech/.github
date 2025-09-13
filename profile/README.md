@@ -24,7 +24,7 @@ Llevamos la tecnología al campo como una herramienta para sembrar oportunidades
 
 
 ## Aprendizaje en Tecnologías:
-Sumérgete en el mundo digital con video tutoriales sobre desarrollo de software, inteligencia artificial, Electronica y más. Entra a nuestro canal de youtube: 
+Visita nuestro canal de youtube para video tutoriales sobre desarrollo de software, inteligencia artificial, Electronica y más: 
 [Canal Liwasi Edtech](https://www.youtube.com/@LiwaisiTech)]
 Descubre cómo estas herramientas pueden resolver problemas y promover la innovación.
 
